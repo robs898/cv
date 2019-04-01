@@ -1,1 +1,2 @@
-pdflatex cv.text
+# Run
+`pdflatex cv.tex`
